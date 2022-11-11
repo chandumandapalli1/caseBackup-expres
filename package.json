@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.1",
+    "nodemon": "^2.0.20",
+    "seneca": "^3.23.2",
+    "seneca-amqp-transport": "^2.2.0",
+    "seneca-entity": "^13.0.0",
+    "seneca-mongo-store": "^4.0.0",
+    "seneca-transport": "^6.0.0"
+  }
+}
